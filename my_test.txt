@@ -1,1 +1,2 @@
 This is my rename project and test
+Second line for test.
